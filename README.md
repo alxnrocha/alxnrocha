@@ -1,16 +1,15 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Alexandre%20Rocha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Barcelona%2C%20Spain&descSize=18&descAlignY=58&descColor=a0a0c0)
-
+  <h1>Hey, I'm Alexandre 👋</h1>
+  <h3>Web Developer · Barcelona, Spain</h3>
 </div>
 
 ---
 
 ### About me
 
-I'm a web developer from Portugal, currently living in Barcelona. I got into coding through backend work — building APIs, dealing with databases — and then went deeper into the frontend side. Now I work across the full stack and enjoy connecting both worlds.
+Web developer based in Barcelona. I got into coding through backend work — building APIs, dealing with databases — and then went deeper into the frontend side. Now I work across the full stack and enjoy connecting both worlds.
 
-I've completed three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), which covered everything from HTML and CSS to JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know I learned by actually building things and breaking them.
+I've completed three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know I learned by actually building things and breaking them.
 
 Outside of code: music, travelling, and the occasional Taijitsu session.
 
@@ -24,6 +23,7 @@ Outside of code: music, travelling, and the occasional Taijitsu session.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend**
 
@@ -35,6 +35,7 @@ Outside of code: music, travelling, and the occasional Taijitsu session.
 **Database & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
@@ -54,18 +55,19 @@ Outside of code: music, travelling, and the occasional Taijitsu session.
 ### GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
+### Let's connect
+
 <div align="center">
 
-📬 [alexrochadev@gmail.com](mailto:alexrochadev@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alexandre-rocha-0a8549262/) &nbsp;·&nbsp; [Portfolio](https://github.com/alxnrocha/frontend-portfolio)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alxnrocha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/alxnrocha/frontend-portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrochadev@gmail.com)
 
 </div>
