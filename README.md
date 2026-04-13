@@ -1,12 +1,22 @@
-# Hey, I'm Alexandre 👋
+<div align="center">
 
-Web developer based in Barcelona. I've been learning by building — started from HTML and CSS, went through JavaScript, then Vue.js, Node.js, and Python/Flask. I like to understand how things work under the hood before reaching for a framework.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Alexandre%20Rocha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Barcelona%2C%20Spain&descSize=18&descAlignY=58&descColor=a0a0c0)
 
-Currently wrapping up three vocational certifications focused on web development (IFCD65, IFCD0111, IFCD0210).
+</div>
 
 ---
 
-## What I work with
+### About me
+
+I'm a web developer from Portugal, currently living in Barcelona. I got into coding through backend work — building APIs, dealing with databases — and then went deeper into the frontend side. Now I work across the full stack and enjoy connecting both worlds.
+
+I've completed three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), which covered everything from HTML and CSS to JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know I learned by actually building things and breaking them.
+
+Outside of code: music, travelling, and the occasional Taijitsu session.
+
+---
+
+### Tech Stack
 
 **Frontend**
 
@@ -30,21 +40,32 @@ Currently wrapping up three vocational certifications focused on web development
 
 ---
 
-## Projects
+### Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| [contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs) | Node.js · Express · MySQL | Full-stack contact CRUD app |
-| [pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js) | HTML · CSS · JS ES Modules | Pokedex + battle simulator with PokeAPI |
-| [pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3) | Vue 3 · Vue Router | Pokedex with routing and dark mode |
-| [frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio) | HTML · CSS | Personal portfolio website |
+| [contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs) | Node.js · Express · MySQL | Full-stack contact manager with REST API |
+| [pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js) | HTML · CSS · JS ES Modules | Pokedex + battle simulator using PokeAPI |
+| [pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3) | Vue 3 · Vue Router | Pokedex with routing, search and dark mode |
+| [frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio) | HTML · CSS | Personal portfolio — multi-page, fully responsive |
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
 
 ---
 
-📬 alexrochadev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
+<div align="center">
+
+📬 [alexrochadev@gmail.com](mailto:alexrochadev@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alexandre-rocha-0a8549262/) &nbsp;·&nbsp; [Portfolio](https://github.com/alxnrocha/frontend-portfolio)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer)
+
+</div>
