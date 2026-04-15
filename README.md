@@ -1,15 +1,12 @@
-# Alexandre Rocha
-**Web Developer • Barcelona, Spain**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=200&section=header&text=Alexandre%20Rocha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Barcelona%2C%20Spain&descAlignY=58&descAlign=50&descSize=18&descColor=a9b1d6" />
+</div>
 
 ---
 
 ## Hey, I'm Alexandre 👋
 
-Web developer based in Barcelona, I got into coding through backend work – building APIs, dealing with databases – and then went deeper into the frontend side. Now I work across the full stack and enjoy connecting both worlds.
-
-* 🔥 I've completed three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask
-* 🖐️ Most of what I know I learned by actually building things and breaking them.
-* 🥋 Outside of code: music, travelling, and the occasional Taijutsu session.
+Web developer based in Barcelona. I started on the backend side — building APIs, working with databases — and gradually moved across the full stack. I hold three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know came from actually building things, breaking them, and figuring out why. Outside of code: music, travelling, and the occasional Taijutsu session.
 
 ---
 
@@ -39,28 +36,39 @@ Web developer based in Barcelona, I got into coding through backend work – bui
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## 📁 Projects
+## 📁 Personal Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **contact-manager-nodejs** | Node.js • Express • MySQL | Full stack contact-manager with REST-API |
-| **pokedex-vanilla-js** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI |
-| **pokedex-vue3** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
-| **frontend-portfolio** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
+| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API |
+| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI |
+| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
+| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
+
+## 👥 Team Projects @ CIFO Violeta
+
+| Project | Stack | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | 🔧 In Progress |
+| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | ✅ Completed |
 
 ---
 
 ## 📫 Let's connect
 
-[<img align="left" alt="LinkedIn" width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-[<img align="left" alt="GitHub" width="105px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SEU_USUARIO_AQUI)
-[<img align="left" alt="Portfolio" width="105px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" />](https://SEU_PORTFOLIO_URL_AQUI)
-[<img align="left" alt="Email" width="105px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:SEU_EMAIL_AQUI)
+[<img align="left" alt="LinkedIn" width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
+[<img align="left" alt="GitHub" width="105px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alxnrocha)
+[<img align="left" alt="Portfolio" width="105px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://alexrochadev.com)
+[<img align="left" alt="Email" width="105px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alxnrocha@gmail.com)
 
 <br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:1a1b27,100:0d1117&height=120&section=footer" />
+</div>
