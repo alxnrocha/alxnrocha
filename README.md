@@ -47,9 +47,9 @@ Web developer based in Barcelona. I started on the backend side — building API
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI |
-| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
-| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
+| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI | Personal | ✅ |
+| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode | Personal | ✅ |
+| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive | Personal | ✅ |
 
 ## 🏫 CIFO La Violeta — Barcelona, Spain
 
