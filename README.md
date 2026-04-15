@@ -36,8 +36,6 @@ Web developer based in Barcelona. I started on the backend side — building API
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" />
 </div>
 
@@ -64,8 +62,7 @@ Web developer based in Barcelona. I started on the backend side — building API
 ## 📫 Let's connect
 
 [<img align="left" alt="LinkedIn" width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
-[<img align="left" alt="GitHub" width="105px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alxnrocha)
-[<img align="left" alt="Portfolio" width="105px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://alexrochadev.com)
+[<img align="left" alt="Website" width="105px" src="https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://alexrochadev.com)
 [<img align="left" alt="Email" width="105px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alxnrocha@gmail.com)
 
 <br><br>
