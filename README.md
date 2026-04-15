@@ -41,7 +41,7 @@ Web developer based in Barcelona. I started on the backend side — building API
 
 ---
 
-## 📁 UOC — Universitat Oberta de Catalunya
+## 🎓 UOC — Universitat Oberta de Catalunya
 
 *Personal projects developed during the web development programme at UOC.*
 
@@ -51,7 +51,7 @@ Web developer based in Barcelona. I started on the backend side — building API
 | **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
 | **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
 
-## 👥 CIFO La Violeta — Barcelona, Spain
+## 🏫 CIFO La Violeta — Barcelona, Spain
 
 *Personal and team projects developed during the web development programme at CIFO La Violeta.*
 
