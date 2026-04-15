@@ -51,13 +51,21 @@ Web developer based in Barcelona. I started on the backend side — building API
 | **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
 | **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
 
-## 👥 CIFO Violeta
+## 👥 CIFO La Violeta — Barcelona, Spain
+
+*Personal and team projects developed during the web development programme at CIFO La Violeta.*
 
 | Project | Stack | Description | Type | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API | 👤 Personal | ✅ Completed |
-| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | 👥 Team | 🔧 In Progress |
-| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | 👥 Team | ✅ Completed |
+| :--- | :--- | :--- | :---: | :---: |
+| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API | Personal | ✅ |
+| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | Team | 🔧 |
+| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | Team | ✅ |
+
+---
+
+## 🏫 CIFO Hospitalet — Barcelona, Spain
+
+*Coming soon.*
 
 ---
 
