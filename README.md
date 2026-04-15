@@ -41,29 +41,31 @@ Web developer based in Barcelona. I started on the backend side — building API
 
 ---
 
-## 📁 Personal Projects
+## 📁 UOC — Universitat Oberta de Catalunya
+
+*Personal projects developed during the web development programme at UOC.*
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API |
 | **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI |
 | **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode |
 | **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive |
 
-## 👥 Team Projects @ CIFO Violeta
+## 👥 CIFO Violeta
 
-| Project | Stack | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | 🔧 In Progress |
-| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | ✅ Completed |
+| Project | Stack | Description | Type | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API | 👤 Personal | ✅ Completed |
+| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | 👥 Team | 🔧 In Progress |
+| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | 👥 Team | ✅ Completed |
 
 ---
 
 ## 📫 Let's connect
 
-[<img align="left" alt="LinkedIn" width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
-[<img align="left" alt="Website" width="105px" src="https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://alexrochadev.com)
-[<img align="left" alt="Email" width="105px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alxnrocha@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-rocha-0a8549262/)
+[<img alt="Website" src="https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=safari&logoColor=white" />](https://alexrochadev.com)
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alxnrocha@gmail.com)
 
 <br><br>
 
