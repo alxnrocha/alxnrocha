@@ -4,6 +4,8 @@
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight)
+
 ## Hey, I'm Alexandre 👋
 
 Web developer based in Barcelona. I started on the backend side — building APIs, working with databases — and gradually moved across the full stack. I hold three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know came from actually building things, breaking them, and figuring out why. Outside of code: music, travelling, and the occasional Taijutsu session.
