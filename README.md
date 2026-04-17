@@ -4,19 +4,15 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight)
+## Hey, I'm Alexandre 👋
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=alxnrocha&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Web developer based in Barcelona. I started on the backend side — building APIs, working with databases — and gradually moved across the full stack. I hold three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know came from actually building things, breaking them, and figuring out why. Outside of code: music, travelling, and the occasional Taijutsu session.
 
-![Status do GitHub de Alexandre](https://github-readme-stats.vercel.app/api?username=alxnrocha&show_icons=true&theme=tokyonight)
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-## Hey, I'm Alexandre 👋
-
-Web developer based in Barcelona. I started on the backend side — building APIs, working with databases — and gradually moved across the full stack. I hold three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know came from actually building things, breaking them, and figuring out why. Outside of code: music, travelling, and the occasional Taijutsu session.
 
 ---
 
