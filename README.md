@@ -42,8 +42,8 @@ Web developer based in Barcelona. I started on the backend side — building API
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="49%" />
-  <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%" />
+  <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" width="19%" />
 </div>
 
 ---
