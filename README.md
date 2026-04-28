@@ -41,14 +41,6 @@ Web developer based in Barcelona. I started on the backend side — building API
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Security
-![bcrypt](https://img.shields.io/badge/bcrypt-2C8EBB?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
-### CMS / Web
-![WordPress](https://img.shields.io/badge/WordPress-117B85?style=for-the-badge&logo=wordpress&logoColor=white)
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -57,6 +49,7 @@ Web developer based in Barcelona. I started on the backend side — building API
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117B85?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Concepts
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
