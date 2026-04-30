@@ -6,7 +6,11 @@
 
 ## Hey, I'm Alexandre 👋
 
-Web developer based in Barcelona. I started on the backend side — building APIs, working with databases — and gradually moved across the full stack. I hold three vocational certifications in web development (IFCD65, IFCD0111, IFCD0210), covering HTML, CSS, JavaScript, Vue.js, Node.js and Python/Flask. Most of what I know came from actually building things, breaking them, and figuring out why. Outside of code: music, travelling, and the occasional Taijutsu session.
+Web developer based in Barcelona, focused on building practical fullstack applications with clean structure, solid backend logic and user-friendly interfaces. My path started with web development foundations at UOC through IFCD65, continued at CIFO La Violeta with IFCD0111, where I worked on a real CRM project for the school itself, and expanded further through backend training with Java at Barcelona Activa.
+
+I work across the stack with HTML, CSS, JavaScript, Vue.js, Node.js, Express, MySQL, Java and Spring Boot, and I keep strengthening my architecture and product-building skills through independent projects. Most of what I know comes from building real things, debugging problems, improving code step by step and learning how systems behave when they are actually used.
+
+Outside of code, I enjoy music, travel and exploring new ideas.
 
 ---
 
