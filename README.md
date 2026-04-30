@@ -75,7 +75,8 @@ Web developer based in Barcelona. I started on the backend side — building API
 | **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI | Personal | ✅ |
 | **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode | Personal | ✅ |
 | **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive | Personal | ✅ |
-| **[platform-monorepo-showcase](https://github.com/alxnrocha/platform-monorepo-showcase)** | React • TypeScript • Fastify • Prisma • PostgreSQL • Docker • pnpm Workspaces • Vitest • GitHub Actions | Public technical showcase for a modular fullstack monorepo: shared contracts, API boundaries, validation engine, document rendering and CI-backed quality gates | Personal | 🔧 |
+| **[platform-monorepo-showcase](https://github.com/alxnrocha/platform-monorepo-showcase)** | React • TypeScript • Fastify • Prisma • PostgreSQL • Docker • pnpm Workspaces • Vitest • GitHub Actions | Modular fullstack monorepo showcasing shared contracts, API boundaries, validation engine and CI.
+ | Personal | 🔧 |
 
 ---
 
