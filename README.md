@@ -66,6 +66,16 @@ Web developer based in Barcelona. I started on the backend side — building API
 
 ---
 
+## Independent Projects
+
+*Personal projects built outside formal coursework, focused on architecture, product structure and fullstack practice.*
+
+| Project | Stack | Description | Type | Status |
+| :--- | :--- | :--- | :---: | :---: |
+| **[platform-monorepo-showcase](https://github.com/alxnrocha/platform-monorepo-showcase)** | React • TypeScript • Fastify • Prisma • PostgreSQL • Docker • pnpm Workspaces • Vitest • GitHub Actions | Public technical showcase for a modular fullstack monorepo: shared contracts, API boundaries, validation engine, document rendering and CI-backed quality gates | Personal / Showcase | Active |
+
+---
+
 ## 🎓 UOC — Universitat Oberta de Catalunya
 
 *Personal projects developed during the web development programme at UOC.*
