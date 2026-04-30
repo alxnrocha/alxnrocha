@@ -66,7 +66,7 @@ Web developer based in Barcelona. I started on the backend side — building API
 
 ---
 
-## Independent Projects
+## 🚀 Independent Projects
 
 *Personal projects built outside formal coursework, focused on architecture, product structure and fullstack practice.*
 
