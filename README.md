@@ -23,6 +23,14 @@ Outside of code, I enjoy music, travel and exploring new ideas.
   <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" width="29%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxnrocha&theme=tokyonight&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/alxnrocha" alt="Gráfico de Contribuições" />
+</div>
+
 ---
 
 ## 🚀 Tech Stack
