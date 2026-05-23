@@ -19,16 +19,11 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" width="70%" />  
-  <img src="https://github-readme-stats-zeta-ten-72.vercel.app/api/top-langs/?username=alxnrocha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" width="29%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxnrocha&bg_color=0D1117&color=C9D1D9&line=238636&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxnrocha&theme=tokyonight&hide_border=true" alt="Gráfico de Atividade" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/alxnrocha" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
