@@ -23,6 +23,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" width="70%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
