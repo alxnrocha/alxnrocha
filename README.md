@@ -22,6 +22,12 @@ Outside of code, I enjoy music, travel and exploring new ideas.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
 ---
 
 ## 🚀 Tech Stack
