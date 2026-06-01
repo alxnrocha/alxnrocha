@@ -28,91 +28,112 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
+### Styling & UI
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+
+### Forms & Validation
+
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Form Validation](https://img.shields.io/badge/Form%20Validation-2F6F73?style=for-the-badge)
+
+### State & Data Visualization
+
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Express Session](https://img.shields.io/badge/Express%20Session-000000?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-2F6F73?style=for-the-badge)
+![Multer](https://img.shields.io/badge/Multer-C2410C?style=for-the-badge)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+
+### Backend as a Service
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### APIs & Architecture
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-EF5350?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge)
+![Server--Side Validation](https://img.shields.io/badge/Server--Side%20Validation-2F6F73?style=for-the-badge)
+![Parameterized Queries](https://img.shields.io/badge/Parameterized%20Queries-0F172A?style=for-the-badge)
+![Session Auth](https://img.shields.io/badge/Session%20Auth-111827?style=for-the-badge)
+![Protected Routes](https://img.shields.io/badge/Protected%20Routes-7C3AED?style=for-the-badge)
 
 ### CMS / Website Builders
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-### Testing
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-0052CC?style=for-the-badge&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-6A5ACD?style=for-the-badge&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-7CB342?style=for-the-badge&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-94C11F?style=for-the-badge&logoColor=black)
-
 ### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Concepts & Architecture
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-3AB4A6?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-2F6690?style=for-the-badge&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-1F2937?style=for-the-badge&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-EF5350?style=for-the-badge&logoColor=white)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-546E7A?style=for-the-badge&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-2E7D32?style=for-the-badge&logoColor=white)
-![Authorization](https://img.shields.io/badge/Authorization-1565C0?style=for-the-badge&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-24292E?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Workflow
 
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Branches](https://img.shields.io/badge/Branches-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code%20Review-24292E?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Web Focus
 
-![SEO](https://img.shields.io/badge/SEO-00A86B?style=for-the-badge&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logoColor=white)
-![Web Performance](https://img.shields.io/badge/Web_Performance-F7C600?style=for-the-badge&logoColor=black)
-![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-00A86B?style=for-the-badge)
+![Web Performance](https://img.shields.io/badge/Web%20Performance-F7C600?style=for-the-badge&logoColor=black)
+![DOM Manipulation](https://img.shields.io/badge/DOM%20Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Fetch API](https://img.shields.io/badge/Fetch%20API-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![LocalStorage](https://img.shields.io/badge/localStorage-6B7280?style=for-the-badge)
+
+### Currently Learning
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-0052CC?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-2F6690?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge)
 
 ---
 
