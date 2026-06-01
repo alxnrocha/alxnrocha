@@ -122,10 +122,6 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 | Project | Stack | Description | Type | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI | Personal | ✅ |
-| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode | Personal | ✅ |
-| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive | Personal | ✅ |
-| **[platform-monorepo-showcase](https://github.com/alxnrocha/platform-monorepo-showcase)** | React • TypeScript • Fastify • Prisma • PostgreSQL • Docker • pnpm Workspaces • Vitest • GitHub Actions | Modular fullstack monorepo showcasing shared contracts, API boundaries, validation engine and CI | Personal | 🔧 |
 | **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro • TypeScript • CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | Personal | 🔧 |
 
 ---
