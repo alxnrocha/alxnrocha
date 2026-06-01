@@ -38,21 +38,12 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-### Styling & UI
+### Styling, Forms & State
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge)
-![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-
-### Forms & Validation
-
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
-![Form Validation](https://img.shields.io/badge/Form%20Validation-2F6F73?style=for-the-badge)
-
-### State & Data Visualization
-
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
 
@@ -67,32 +58,13 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=for-the-badge)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 
-### Backend as a Service
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Database & ORM
+### Database & BaaS
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### APIs & Architecture
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-EF5350?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge)
-![Server--Side Validation](https://img.shields.io/badge/Server--Side%20Validation-2F6F73?style=for-the-badge)
-![Parameterized Queries](https://img.shields.io/badge/Parameterized%20Queries-0F172A?style=for-the-badge)
-![Session Auth](https://img.shields.io/badge/Session%20Auth-111827?style=for-the-badge)
-![Protected Routes](https://img.shields.io/badge/Protected%20Routes-7C3AED?style=for-the-badge)
-
-### CMS / Website Builders
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 ### Tools & DevOps
 
@@ -100,28 +72,35 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Workflow
+### Practices
 
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-181717?style=for-the-badge&logo=github&logoColor=white)
-![Branches](https://img.shields.io/badge/Branches-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-EF5350?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge)
+![Server--Side Validation](https://img.shields.io/badge/Server--Side%20Validation-2F6F73?style=for-the-badge)
+![Parameterized Queries](https://img.shields.io/badge/Parameterized%20Queries-0F172A?style=for-the-badge)
+![Session Auth](https://img.shields.io/badge/Session%20Auth-111827?style=for-the-badge)
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Code Review](https://img.shields.io/badge/Code%20Review-24292E?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Web Focus
 
 ![SEO](https://img.shields.io/badge/SEO-00A86B?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge)
 ![Web Performance](https://img.shields.io/badge/Web%20Performance-F7C600?style=for-the-badge&logoColor=black)
+![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![DOM Manipulation](https://img.shields.io/badge/DOM%20Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![LocalStorage](https://img.shields.io/badge/localStorage-6B7280?style=for-the-badge)
+![localStorage](https://img.shields.io/badge/localStorage-6B7280?style=for-the-badge)
+
+### CMS / Website Builders
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 ### Currently Learning
 
@@ -131,10 +110,10 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-0052CC?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-2F6690?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
