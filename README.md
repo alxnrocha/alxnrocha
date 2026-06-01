@@ -131,6 +131,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-0052CC?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-2F6690?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge)
