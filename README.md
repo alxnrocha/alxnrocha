@@ -26,19 +26,34 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 ## 🚀 Tech Stack
 
-### Frontend
+### Core Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<details>
+<summary><strong>Frontend</strong></summary>
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-### Styling, Forms & State
+</details>
+
+<details>
+<summary><strong>Styling, Forms & State</strong></summary>
+
+<br>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
@@ -47,10 +62,13 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
 
-### Backend
+</details>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<details>
+<summary><strong>Backend</strong></summary>
+
+<br>
+
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Express Session](https://img.shields.io/badge/Express%20Session-000000?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-2F6F73?style=for-the-badge)
@@ -58,16 +76,17 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=for-the-badge)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 
-### Database & BaaS
+</details>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<details>
+<summary><strong>Database, Tools & DevOps</strong></summary>
+
+<br>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -76,31 +95,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Practices
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-EF5350?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge)
-![Server--Side Validation](https://img.shields.io/badge/Server--Side%20Validation-2F6F73?style=for-the-badge)
-![Parameterized Queries](https://img.shields.io/badge/Parameterized%20Queries-0F172A?style=for-the-badge)
-![Session Auth](https://img.shields.io/badge/Session%20Auth-111827?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code%20Review-24292E?style=for-the-badge&logo=github&logoColor=white)
-
-### Web Focus
-
-![SEO](https://img.shields.io/badge/SEO-00A86B?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge)
-![Web Performance](https://img.shields.io/badge/Web%20Performance-F7C600?style=for-the-badge&logoColor=black)
-![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![DOM Manipulation](https://img.shields.io/badge/DOM%20Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![localStorage](https://img.shields.io/badge/localStorage-6B7280?style=for-the-badge)
-
-### CMS / Website Builders
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+</details>
 
 ### Currently Learning
 
