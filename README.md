@@ -6,11 +6,13 @@
 
 ## Hey, I'm Alexandre 👋
 
-Web developer based in Barcelona, focused on building practical full-stack applications with clean structure, solid backend logic and user-friendly interfaces.
+Frontend & full-stack developer based in Barcelona, focused on building practical web applications with clean interfaces, structured code and solid backend fundamentals.
 
-My path started with web development foundations at UOC through IFCD65, continued at CIFO La Violeta with IFCD0111, where I worked on a real CRM project for the school itself, and is now expanding through backend development training with Java and Spring Boot at Barcelona Activa.
+My path started with web development foundations at UOC through IFCD65 and continued at CIFO La Violeta with IFCD0111, where I worked on a real CRM project for the school itself. I am currently expanding my backend knowledge through Java and Spring Boot training at Barcelona Activa.
 
-I work across the stack with HTML, CSS, JavaScript, Vue.js, Node.js, Express, MySQL, Java and Spring Boot, and I keep strengthening my architecture and product-building skills through independent projects. Most of what I know comes from building real things, debugging problems, improving code step by step and learning how systems behave when they are actually used.
+I work mainly with HTML, CSS, JavaScript, React, Node.js, Express and SQL, building projects that combine responsive interfaces, form handling, API integration, database thinking and clear GitHub workflows.
+
+I like learning by building: planning features, debugging problems, improving code step by step and understanding how systems behave when they are actually used.
 
 Outside of code, I enjoy music, travel and exploring new ideas.
 
