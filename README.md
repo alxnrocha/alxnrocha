@@ -130,6 +130,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 | Project | Stack | Description | Type | Status |
 | :--- | :--- | :--- | :---: | :---: |
+| **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML · CSS · JavaScript | Professional landing page for an aesthetic clinic, with responsive layout, accessibility polish and GitHub Pages deploy | Personal | ✅ |
 | **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | Personal | 🔧 |
 | **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML · CSS · JavaScript | Professional landing page for an aesthetic clinic, with responsive layout, accessibility polish and GitHub Pages deploy | Personal | ✅ |
 
