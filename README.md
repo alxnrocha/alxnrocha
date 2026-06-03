@@ -24,6 +24,16 @@ Outside of code, I enjoy music, travel and exploring new ideas.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxnrocha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alxnrocha/alxnrocha/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ## 🚀 Tech Stack
