@@ -1,0 +1,25 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandre Rocha</title>
+  <desc id="desc">Frontend and full-stack developer based in Barcelona, Spain</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="150" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#255e63" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#4f8f98" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a9b1d6" stop-opacity="0.16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <path d="M0 192C145 154 246 180 386 199C526 218 639 209 780 178C936 143 1059 144 1200 174V260H0V192Z" fill="url(#wave)"/>
+  <path d="M0 216C176 185 274 211 431 226C580 240 706 228 850 204C1005 178 1118 188 1200 206V260H0V216Z" fill="#0d1117" fill-opacity="0.4"/>
+  <text x="600" y="108" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffffff">
+    Alexandre Rocha
+  </text>
+  <text x="600" y="148" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#d8dee9">
+    Frontend &amp; Full-Stack Developer - Barcelona, Spain
+  </text>
+</svg>
