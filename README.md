@@ -99,7 +99,16 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 </details>
 
-### Currently Learning
+<details>
+<summary><strong>Professional Practices</strong></summary>
+
+<br>
+
+`REST APIs` · `MVC` · `CRUD` · `Server-Side Validation` · `Parameterized Queries` · `Session Auth` · `Pull Requests` · `Code Review` · `SEO` · `Responsive Design` · `Accessibility` · `Web Performance` · `DOM Manipulation` · `Fetch API` · `localStorage` · `WordPress` · `Elementor`
+
+</details>
+
+### Currently Learning - Java, Spring Boot & Backend Architecture
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
