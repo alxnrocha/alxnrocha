@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=200&section=header&text=Alexandre%20Rocha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Barcelona%2C%20Spain&descAlignY=58&descAlign=50&descSize=18&descColor=a9b1d6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=200&section=header&text=Alexandre%20Rocha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Barcelona%2C%20Spain&descAlignY=58&descAlign=50&descSize=18&descColor=a9b1d6" />
 </div>
 
 ---
@@ -10,7 +10,7 @@ Frontend & full-stack developer based in Barcelona, focused on building practica
 
 My path started with web development foundations at UOC through IFCD65 and continued at CIFO La Violeta with IFCD0111, where I worked on a real CRM project for the school itself. I am currently expanding my backend knowledge through Java and Spring Boot training at Barcelona Activa.
 
-I work mainly with HTML, CSS, JavaScript, React, Node.js, Express and SQL, building projects that combine responsive interfaces, form handling, API integration, database thinking and clear GitHub workflows.
+I work mainly with HTML, CSS, JavaScript, React, Node.js, Express and SQL databases, building projects that combine responsive interfaces, form handling, API integration, database thinking and clear GitHub workflows.
 
 I like learning by building: planning features, debugging problems, improving code step by step and understanding how systems behave when they are actually used.
 
@@ -61,6 +61,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Joi](https://img.shields.io/badge/Joi-0A0A0A?style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
 
@@ -72,6 +73,7 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 <br>
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![MySQL2](https://img.shields.io/badge/MySQL2-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express Session](https://img.shields.io/badge/Express%20Session-000000?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-2F6F73?style=for-the-badge)
 ![Multer](https://img.shields.io/badge/Multer-C2410C?style=for-the-badge)
@@ -85,7 +87,6 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -125,11 +126,12 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 ## 🗂️ Independent Projects
 
-*Personal projects built outside formal coursework, focused on architecture, product structure and fullstack practice.*
+*Personal projects built outside formal coursework, focused on architecture, product structure and full-stack practice.*
 
 | Project | Stack | Description | Type | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro • TypeScript • CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | Personal | 🔧 |
+| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | Personal | 🔧 |
+| **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML · CSS · JavaScript | Professional landing page for an aesthetic clinic, with responsive layout, accessibility polish and GitHub Pages deploy | Personal | ✅ |
 
 ---
 
@@ -139,9 +141,11 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 | Project | Stack | Description | Type | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML • CSS • JS Modules | Pokedex • battle simulator using PokeAPI | Personal | ✅ |
-| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 • Vue Router | Pokedex with routing, search and dark mode | Personal | ✅ |
-| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML • CSS | Personal portfolio - multi-page, fully responsive | Personal | ✅ |
+| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML · CSS · JS Modules | Pokedex and battle simulator using PokeAPI | Personal | ✅ |
+| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 · Vue Router | Pokedex with routing, search and dark mode | Personal | ✅ |
+| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML · CSS | Personal portfolio - multi-page, fully responsive | Personal | ✅ |
+
+---
 
 ## 🏫 CIFO La Violeta — Barcelona, Spain
 
@@ -149,9 +153,9 @@ Outside of code, I enjoy music, travel and exploring new ideas.
 
 | Project | Stack | Description | Type | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js • Express • MySQL | Full stack contact-manager with REST-API | Personal | ✅ |
-| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js • Express • Sequelize • MySQL • EJS | CRM system for CIFO Violeta — student database management | Team | 🔧 |
-| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js • Express • MySQL • Joi | Task management web app with JWT authentication | Team | ✅ |
+| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js · Express · MySQL | Full-stack contact manager with REST API | Personal | ✅ |
+| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js · Express · Sequelize · MySQL · EJS | CRM system for CIFO Violeta — student database management | Team | 🔧 |
+| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js · Express · MySQL · Joi | Task management web app with JWT authentication | Team | ✅ |
 
 ---
 
