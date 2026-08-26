@@ -88,35 +88,23 @@ Outside of code, I enjoy music, travel, and continuous learning.
 
 ---
 
-## 🏛️ Flagship Enterprise Systems — Barcelona Activa Track
+## 🗂️ Independent Projects
 
-*Production-ready enterprise architectures featuring high-concurrency Java 21 LTS backends, distributed messaging, cryptographic auditing, and industrial React 19 frontend applications.*
+*Curated selection of enterprise systems, distributed architectures and modern full-stack web applications.*
 
-| Project | Architecture & Core Capabilities | Live Demo | Repository | Status |
-| :--- | :--- | :---: | :---: | :---: |
-| **LogiSync Enterprise Core** | **European Supply Chain & ERP Logistics Engine**<br>• Java 21 LTS + Spring Boot 3.3 + RabbitMQ 3.13 + PostgreSQL 17<br>• Atomic **Transactional Outbox Pattern** with scheduled AMQP event publisher<br>• Industrial Picking & Packing terminal with EAN-13 laser barcode emulation<br>• Real-time Europe logistics route map powered by **Leaflet & ESRI World Dark Gray Canvas**<br>• 28 automated tests (JUnit 5, Mockito, Testcontainers, Vitest) | [🚀 Live Demo](https://alxnrocha.github.io/java-fullstack-enterprise/) | [📂 Code](https://github.com/alxnrocha/java-fullstack-enterprise) | ✅ `Production` |
-| **VaultLedger Core** | **Double-Entry Financial Ledger & Cryptographic Audit Platform**<br>• Java 21 LTS + Spring Boot 3.3 + PostgreSQL 17 + Redis 7<br>• Strict double-entry accounting engine ($\sum \text{Debit} = \sum \text{Credit} > 0$)<br>• Deadlock prevention via sorted pessimistic locking (`TreeSet<String>` ordering)<br>• **SHA-256 blockchain-style immutable forensic audit chain** with tamper simulator<br>• Stateless **RSA-2048 JWT** asymmetric auth and Redis token reuse rotation<br>• 56 automated tests (JUnit 5, Spring Security, Vitest) | [🚀 Live Demo](https://alxnrocha.github.io/java-secure-platform/) | [📂 Code](https://github.com/alxnrocha/java-secure-platform) | ✅ `Production` |
-| **ContractPulse CRM** | **B2B Contract Lifecycle & RevenueOps Analytics Platform**<br>• Java 21 LTS + Spring Boot 3.3 + React 19 + PostgreSQL 17<br>• High-density contracts data grid with **TanStack Table v8** (filtering, sorting, CSV export)<br>• Finite State Machine (FSM) contract workflow (`Draft` ➔ `Review` ➔ `Active` ➔ `Renewed`)<br>• Real-time ARR/MRR run-rate calculations, 90-day churn risk alerts and Recharts pacing<br>• Full MapStruct DTO mappings and OpenAPI Swagger documentation | [🚀 Live Demo](https://alxnrocha.github.io/java-crm/) | [📂 Code](https://github.com/alxnrocha/java-crm) | ✅ `Production` |
-
----
-
-## 🌟 Featured Engineering Projects (The Titans)
-
-*Curated selection of enterprise systems, B2B SaaS platforms, and modern frontend architectures with automated CI/CD and production deploys.*
-
-| Project | Stack | Key Architectural Focus | Live Demo | Repository |
+| Project | Stack | Description | Live Demo | Repository |
 | :--- | :--- | :--- | :---: | :---: |
-| 👑 **LogiSync Enterprise** | Java 21 · Spring Boot 3.3 · RabbitMQ · React 19 · ESRI Leaflet | Pan-European ERP & Transactional Outbox Pattern | [🚀 Live Demo](https://alxnrocha.github.io/java-fullstack-enterprise/) | [GitHub](https://github.com/alxnrocha/java-fullstack-enterprise) |
-| 🌟 **VaultLedger Core** | Java 21 · Spring Boot 3.3 · RSA-2048 · Redis 7 · Postgres 17 | Double-Entry Banking Ledger & SHA-256 Audit Chain | [🚀 Live Demo](https://alxnrocha.github.io/java-secure-platform/) | [GitHub](https://github.com/alxnrocha/java-secure-platform) |
-| 🌟 **ContractPulse CRM** | Java 21 · Spring Boot 3.3 · React 19 · TanStack Table v8 | B2B Contract Lifecycle & RevenueOps Engine | [🚀 Live Demo](https://alxnrocha.github.io/java-crm/) | [GitHub](https://github.com/alxnrocha/java-crm) |
-| 🌟 **StayHub Luxury** | Next.js · TypeScript · Tailwind v4 · PostgreSQL · Prisma 6 | Multi-tenant luxury vacation rentals with RBAC | [🚀 Live Demo](https://alxnrocha.github.io/booking-platform/) | [GitHub](https://github.com/alxnrocha/booking-platform) |
-| 🌟 **LeadFlow CRM** | Node.js Express 5 · MySQL 8 · React 19 · TypeScript | B2B lead sales pipeline with Kanban Drag & Drop | [🚀 Live Demo](https://alxnrocha.github.io/crm-leads/) | [GitHub](https://github.com/alxnrocha/crm-leads) |
-| 🌟 **InmoFlow** | React 19 · TypeScript · Tailwind v4 · Recharts | Real estate portal with multi-criteria property search | [🚀 Live Demo](https://alxnrocha.github.io/real-estate-crm/) | [GitHub](https://github.com/alxnrocha/real-estate-crm) |
-| 🌟 **SunnyShop** | React 19 · TypeScript · TanStack Table · Recharts | E-commerce business analytics & conversion funnel | [🚀 Live Demo](https://alxnrocha.github.io/analytics-dashboard/) | [GitHub](https://github.com/alxnrocha/analytics-dashboard) |
-| 🌟 **CryptoFlow** | React 19 · TypeScript · Chart.js · CoinGecko API | Real-time crypto intelligence with responsive cache | [🚀 Live Demo](https://alxnrocha.github.io/crypto-dashboard/) | [GitHub](https://github.com/alxnrocha/crypto-dashboard) |
-| 🌟 **StyleSphere** | Vue 3.5 · Pinia · Composition API · Tailwind v4 | High-density faceted fashion catalog filtering | [🚀 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [GitHub](https://github.com/alxnrocha/vue-catalog-filters) |
-| 🌟 **Clínica Lumina** | HTML5 Semantic · CSS3 Pure · JavaScript Vanilla | Pure web standards with WCAG 2.1 AA accessibility | [🚀 Live Demo](https://alxnrocha.github.io/landing-clinica-lumina/) | [GitHub](https://github.com/alxnrocha/landing-clinica-lumina) |
-| 🌐 **alexrochadev.com** | Astro · TypeScript · CSS | Personal portfolio site with dark tech visual identity | [🚀 Live Demo](https://alexrochadev.com) | [GitHub](https://github.com/alxnrocha/alexrochadev.com) |
+| **[java-fullstack-enterprise](https://github.com/alxnrocha/java-fullstack-enterprise)** | Java 21 · Spring Boot 3.3 · RabbitMQ · React 19 · ESRI Leaflet | LogiSync Enterprise — Pan-European supply chain ERP with Transactional Outbox pattern, AMQP messaging, EAN-13 barcode terminal and live ESRI radar map | [🚀 Live Demo](https://alxnrocha.github.io/java-fullstack-enterprise/) | [GitHub](https://github.com/alxnrocha/java-fullstack-enterprise) |
+| **[java-secure-platform](https://github.com/alxnrocha/java-secure-platform)** | Java 21 · Spring Boot 3.3 · RSA-2048 · Redis 7 · Postgres 17 | VaultLedger Core — Double-entry banking ledger with sorted pessimistic locking, asymmetric JWT, SHA-256 audit chain and Basel III solvency dashboard | [🚀 Live Demo](https://alxnrocha.github.io/java-secure-platform/) | [GitHub](https://github.com/alxnrocha/java-secure-platform) |
+| **[java-crm](https://github.com/alxnrocha/java-crm)** | Java 21 · Spring Boot 3.3 · React 19 · TanStack Table v8 | ContractPulse CRM — B2B contract lifecycle and RevenueOps analytics platform with ARR/MRR run-rate, FSM workflow and TanStack Table v8 | [🚀 Live Demo](https://alxnrocha.github.io/java-crm/) | [GitHub](https://github.com/alxnrocha/java-crm) |
+| **[booking-platform](https://github.com/alxnrocha/booking-platform)** | Next.js · TypeScript · Tailwind v4 · PostgreSQL · Prisma 6 | StayHub Luxury — Multi-tenant luxury vacation rentals platform with RBAC and PostgreSQL persistence | [🚀 Live Demo](https://alxnrocha.github.io/booking-platform/) | [GitHub](https://github.com/alxnrocha/booking-platform) |
+| **[crm-leads](https://github.com/alxnrocha/crm-leads)** | Node.js Express 5 · MySQL 8 · React 19 · TypeScript | LeadFlow CRM — B2B commercial pipeline and lead management with Kanban Drag & Drop and REST API | [🚀 Live Demo](https://alxnrocha.github.io/crm-leads/) | [GitHub](https://github.com/alxnrocha/crm-leads) |
+| **[real-estate-crm](https://github.com/alxnrocha/real-estate-crm)** | React 19 · TypeScript · Tailwind v4 · Recharts | InmoFlow — Real estate portal and property management with multi-criteria search and Recharts analytics | [🚀 Live Demo](https://alxnrocha.github.io/real-estate-crm/) | [GitHub](https://github.com/alxnrocha/real-estate-crm) |
+| **[analytics-dashboard](https://github.com/alxnrocha/analytics-dashboard)** | React 19 · TypeScript · TanStack Table · Recharts | SunnyShop — SaaS revenue and e-commerce analytics dashboard with conversion metrics and TanStack Table | [🚀 Live Demo](https://alxnrocha.github.io/analytics-dashboard/) | [GitHub](https://github.com/alxnrocha/analytics-dashboard) |
+| **[crypto-dashboard](https://github.com/alxnrocha/crypto-dashboard)** | React 19 · TypeScript · Chart.js · CoinGecko API | CryptoFlow — Real-time cryptocurrency market intelligence with interactive Chart.js charts and caching | [🚀 Live Demo](https://alxnrocha.github.io/crypto-dashboard/) | [GitHub](https://github.com/alxnrocha/crypto-dashboard) |
+| **[vue-catalog-filters](https://github.com/alxnrocha/vue-catalog-filters)** | Vue 3.5 · Pinia · Composition API · Tailwind v4 | StyleSphere — High-density faceted fashion e-commerce catalog with dynamic filters and reactive state | [🚀 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [GitHub](https://github.com/alxnrocha/vue-catalog-filters) |
+| **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML5 Semantic · CSS3 Pure · JavaScript Vanilla | Clínica Lumina — Professional responsive landing page built on pure web standards with WCAG 2.1 AA accessibility | [🚀 Live Demo](https://alxnrocha.github.io/landing-clinica-lumina/) | [GitHub](https://github.com/alxnrocha/landing-clinica-lumina) |
+| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | [🚀 Live Demo](https://alexrochadev.com) | [GitHub](https://github.com/alxnrocha/alexrochadev.com) |
 
 ---
 
