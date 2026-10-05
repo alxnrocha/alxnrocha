@@ -11,7 +11,7 @@ Junior Full-Stack Web Developer based in Barcelona, Spain. Passionate about buil
 My technical foundation spans modern frontend ecosystems (**React 19**, **Vue 3**, **TypeScript**, **Tailwind CSS**) and solid backend API development (**Node.js / Express**, **PHP 8 / Laravel**, **MySQL**, and **PostgreSQL**). I focus on practical software engineering principles: component-driven architecture, RESTful API design, database modeling, and automated CI/CD workflows.
 
 I completed accredited technical training across leading public institutions in Catalonia:
-- **Universitat Oberta de Catalunya (UOC)**: Modern web design, standards, and frontend fundamentals.
+- **Universitat Oberta de Catalunya (UOC)**: Official certification in **Confecció i Publicació de Pàgines Web** ([IFCD65]), covering modern web standards, semantic HTML5, CSS3 responsive layout architectures, and JavaScript fundamentals.
 - **CIFO La Violeta (SOC / SEPE)**: Two official certifications covering **Full-Stack Development with PHP & Laravel** ([IFCD0024]) and **Web Application Development with Node.js & MySQL** ([IFCD0111]), including building real-world platforms for institutional use.
 
 I am actively looking for my first professional opportunity as a **Junior Full-Stack Developer** or **Frontend Developer**, eager to contribute to an engineering team and keep growing every day.
