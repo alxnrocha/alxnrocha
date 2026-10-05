@@ -10,9 +10,12 @@ Junior Full-Stack Web Developer based in Barcelona, Spain. Passionate about buil
 
 My technical foundation spans modern frontend ecosystems (**React 19**, **Vue 3**, **TypeScript**, **Tailwind CSS**) and solid backend API development (**Node.js / Express**, **PHP 8 / Laravel**, **MySQL**, and **PostgreSQL**). I focus on practical software engineering principles: component-driven architecture, RESTful API design, database modeling, and automated CI/CD workflows.
 
-I completed accredited technical training across leading public institutions in Catalonia:
-- **Universitat Oberta de Catalunya (UOC)**: Official certification in **Confecció i Publicació de Pàgines Web** ([IFCD65]), covering modern web standards, semantic HTML5, CSS3 responsive layout architectures, and JavaScript fundamentals.
-- **CIFO La Violeta (SOC / SEPE)**: Two official certifications covering **Full-Stack Development with PHP & Laravel** ([IFCD0024]) and **Web Application Development with Node.js & MySQL** ([IFCD0111]), including building real-world platforms for institutional use.
+I have completed **over 1,090 hours of accredited, hands-on software development training** across Catalonia's official institutions:
+- **CIFO La Violeta (SOC / SEPE)**:
+  - **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** *(590 hours)* — Backend & Full-Stack architecture with Node.js, Express, Sequelize, and MySQL databases.
+  - **[IFCD0024] FullStack Júnior Web Developer amb PHP** *(260 hours)* — Object-Oriented PHP 8, MySQL relational databases, Laravel Framework REST APIs, and modern frontend interfaces with Angular/TypeScript.
+- **Universitat Oberta de Catalunya (UOC)**:
+  - **[IFCD65] Front End Web Developer / Web Fundamentals** *(240 hours)* — Semantic HTML5, responsive CSS3 architectures (Flexbox/Grid), modular JavaScript, and accessibility standards.
 
 I am actively looking for my first professional opportunity as a **Junior Full-Stack Developer** or **Frontend Developer**, eager to contribute to an engineering team and keep growing every day.
 
@@ -117,13 +120,15 @@ Outside of code, I enjoy music, cycling, travel, and exploring modern design tre
 
 ## 🎓 Education & Official Certifications
 
+> **Total Certified Training: 1,090+ hours** of accredited, state-certified software engineering programs across vocational and university institutions in Catalonia (SOC / SEPE / UOC).
+
 ### CIFO La Violeta — Barcelona (SOC / SEPE)
 *Centres d'Innovació i Formació Ocupacional — Generalitat de Catalunya*
 
-- **[IFCD0024] FullStack Júnior Web Developer amb PHP** *(260 hours)*
-  - **Curriculum:** Object-Oriented PHP (OOP), MySQL Relational Databases, REST API Development with Laravel Framework (MVC, Eloquent ORM, Dependency Injection, JWT authentication), Frontend interfaces with Angular & TypeScript, and Cloud deployment.
-- **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** *(590 hours)*
+- **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** · `590 hours` *(Certificat de Professionalitat Nivell 3)*
   - **Curriculum:** Full-stack development with JavaScript/TypeScript, Node.js runtime, Express REST APIs, Sequelize ORM, MySQL database administration, authentication & web security.
+- **[IFCD0024] FullStack Júnior Web Developer amb PHP** · `260 hours` *(Especialitat Formativa Nivell 2)*
+  - **Curriculum:** Object-Oriented PHP (OOP), MySQL Relational Databases, REST API Development with Laravel Framework (MVC, Eloquent ORM, Dependency Injection, JWT authentication), Frontend interfaces with Angular & TypeScript, and Cloud deployment.
 
 | Coursework Project | Stack | Description | Status |
 | :--- | :--- | :--- | :---: |
@@ -134,7 +139,7 @@ Outside of code, I enjoy music, cycling, travel, and exploring modern design tre
 ### UOC — Universitat Oberta de Catalunya
 *Leading online university based in Barcelona*
 
-- **[IFCD65] Confecció i Publicació de Pàgines Web**
+- **[IFCD65] Front End Web Developer & Web Standards** · `240 hours`
   - **Curriculum:** Web fundamentals, semantic HTML5, modern CSS3 layout systems (Flexbox, CSS Grid), modular JavaScript (ES6+), DOM APIs, responsive web design, and cross-browser accessibility standards.
 
 | Coursework Project | Stack | Description | Status |
