@@ -98,18 +98,14 @@ Outside of code, I enjoy music, cycling, travel, and exploring modern design tre
 
 ## 🗂️ Featured Projects
 
-*Selection of full-stack applications, interactive frontend interfaces, and responsive web projects.*
+*Curated selection of full-stack web applications, interactive frontend architectures, and responsive web standards.*
 
-| Project | Stack | Description | Live Demo | Repository |
+| Project | Tech Stack | Highlights & Architecture | Live Demo | Repository |
 | :--- | :--- | :--- | :---: | :---: |
-| **[booking-platform](https://github.com/alxnrocha/booking-platform)** | Next.js · TypeScript · Tailwind v4 · PostgreSQL · Prisma 6 | StayHub Luxury — Multi-tenant luxury vacation rentals platform with RBAC and PostgreSQL persistence | [🚀 Live Demo](https://alxnrocha.github.io/booking-platform/) | [GitHub](https://github.com/alxnrocha/booking-platform) |
-| **[crm-leads](https://github.com/alxnrocha/crm-leads)** | Node.js Express 5 · MySQL 8 · React 19 · TypeScript | LeadFlow CRM — B2B commercial pipeline and lead management with Kanban Drag & Drop and REST API | [🚀 Live Demo](https://alxnrocha.github.io/crm-leads/) | [GitHub](https://github.com/alxnrocha/crm-leads) |
-| **[vue-catalog-filters](https://github.com/alxnrocha/vue-catalog-filters)** | Vue 3.5 · Pinia · Composition API · Tailwind v4 | StyleSphere — High-density faceted fashion e-commerce catalog with dynamic filters and reactive state | [🚀 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [GitHub](https://github.com/alxnrocha/vue-catalog-filters) |
-| **[real-estate-crm](https://github.com/alxnrocha/real-estate-crm)** | React 19 · TypeScript · Tailwind v4 · Recharts | InmoFlow — Real estate portal and property management with multi-criteria search and Recharts analytics | [🚀 Live Demo](https://alxnrocha.github.io/real-estate-crm/) | [GitHub](https://github.com/alxnrocha/real-estate-crm) |
-| **[analytics-dashboard](https://github.com/alxnrocha/analytics-dashboard)** | React 19 · TypeScript · TanStack Table · Recharts | SunnyShop — SaaS revenue and e-commerce analytics dashboard with conversion metrics and TanStack Table | [🚀 Live Demo](https://alxnrocha.github.io/analytics-dashboard/) | [GitHub](https://github.com/alxnrocha/analytics-dashboard) |
-| **[crypto-dashboard](https://github.com/alxnrocha/crypto-dashboard)** | React 19 · TypeScript · Chart.js · CoinGecko API | CryptoFlow — Real-time cryptocurrency market intelligence with interactive Chart.js charts and caching | [🚀 Live Demo](https://alxnrocha.github.io/crypto-dashboard/) | [GitHub](https://github.com/alxnrocha/crypto-dashboard) |
-| **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML5 Semantic · CSS3 Pure · JavaScript Vanilla | Clínica Lumina — Professional responsive landing page built on pure web standards with WCAG 2.1 AA accessibility | [🚀 Live Demo](https://alxnrocha.github.io/landing-clinica-lumina/) | [GitHub](https://github.com/alxnrocha/landing-clinica-lumina) |
-| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · Modern CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted typography | [🚀 Live Demo](https://alexrochadev.com) | [GitHub](https://github.com/alxnrocha/alexrochadev.com) |
+| **[booking-platform](https://github.com/alxnrocha/booking-platform)** | Next.js · TypeScript · Tailwind v4 · PostgreSQL · Prisma ORM | **StayHub Luxury** — Multi-tenant vacation rental platform featuring role-based access control (RBAC), relational database persistence, and mobile-first UI | [🌐 Live Demo](https://alxnrocha.github.io/booking-platform/) | [💻 Source](https://github.com/alxnrocha/booking-platform) |
+| **[crm-leads](https://github.com/alxnrocha/crm-leads)** | Node.js Express 5 · MySQL 8 · React 19 · TypeScript | **LeadFlow CRM** — Commercial B2B sales pipeline manager featuring interactive Kanban Drag & Drop, RESTful API endpoints, and SQL queries | [🌐 Live Demo](https://alxnrocha.github.io/crm-leads/) | [💻 Source](https://github.com/alxnrocha/crm-leads) |
+| **[vue-catalog-filters](https://github.com/alxnrocha/vue-catalog-filters)** | Vue 3.5 · Pinia · TypeScript · Tailwind CSS v4 | **StyleSphere** — High-density faceted fashion e-commerce catalog engineered with multi-criteria reactive filtering and centralized Pinia state | [🌐 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [💻 Source](https://github.com/alxnrocha/vue-catalog-filters) |
+| **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML5 Semantic · CSS3 Pure · Vanilla JavaScript | **Clínica Lumina** — High-performance responsive medical clinic landing page built strictly on pure web standards with full WCAG 2.1 AA accessibility | [🌐 Live Demo](https://alxnrocha.github.io/landing-clinica-lumina/) | [💻 Source](https://github.com/alxnrocha/landing-clinica-lumina) |
 
 ---
 
