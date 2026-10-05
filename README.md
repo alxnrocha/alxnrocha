@@ -6,13 +6,17 @@
 
 ## Hey, I'm Alexandre 👋
 
-Senior-focused full-stack and systems engineer based in Barcelona, specializing in modern distributed web architectures, high-performance frontend interfaces (**React 19**, **TypeScript**, **Tailwind CSS v4**), and enterprise backend infrastructure (**Java 21 LTS**, **Spring Boot 3.3**, **RabbitMQ**, **PostgreSQL 17**, and the **Transactional Outbox Pattern**).
+Junior Full-Stack Web Developer based in Barcelona, Spain. Passionate about building responsive, accessible, and user-centric web applications with clean, maintainable code.
 
-My technical journey began with web fundamentals at UOC (IFCD65) and continued at CIFO La Violeta (IFCD0111), where I developed a real CRM platform for the institution. Through the advanced software engineering track with Barcelona Activa, I have designed and delivered high-throughput enterprise systems with cryptographic auditing, pessimistic locking, AMQP event messaging, and automated quality assurance.
+My technical foundation spans modern frontend ecosystems (**React 19**, **Vue 3**, **TypeScript**, **Tailwind CSS**) and solid backend API development (**Node.js / Express**, **PHP 8 / Laravel**, **MySQL**, and **PostgreSQL**). I focus on practical software engineering principles: component-driven architecture, RESTful API design, database modeling, and automated CI/CD workflows.
 
-I build resilient software from architectural blueprints to production deployments: domain-driven design, transactional consistency, micro-optimizations, responsive UI design, and rigorous GitHub CI/CD workflows.
+I completed accredited technical training across leading public institutions in Catalonia:
+- **Universitat Oberta de Catalunya (UOC)**: Modern web design, standards, and frontend fundamentals.
+- **CIFO La Violeta (SOC / SEPE)**: Two official certifications covering **Full-Stack Development with PHP & Laravel** ([IFCD0024]) and **Web Application Development with Node.js & MySQL** ([IFCD0111]), including building real-world platforms for institutional use.
 
-Outside of code, I enjoy music, travel, and continuous learning.
+I am actively looking for my first professional opportunity as a **Junior Full-Stack Developer** or **Frontend Developer**, eager to contribute to an engineering team and keep growing every day.
+
+Outside of code, I enjoy music, cycling, travel, and exploring modern design trends.
 
 ---
 
@@ -30,99 +34,114 @@ Outside of code, I enjoy music, travel, and continuous learning.
 
 ## 🚀 Tech Stack
 
-### Core Stack
+### Core Technologies
 
-![Java](https://img.shields.io/badge/Java-21%20LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.13-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <details>
-<summary><strong>Enterprise Backend, Messaging & Persistence</strong></summary>
-
-<br>
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security%206-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20AMQP-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway%20Migrations-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-00A98F?style=for-the-badge&logo=testcontainers&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-65A30D?style=for-the-badge)
-![MapStruct](https://img.shields.io/badge/MapStruct-E44D26?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><strong>Modern Frontend, UI & Data Visualization</strong></summary>
+<summary><strong>Frontend, UI & Data Visualization</strong></summary>
 
 <br>
 
 ![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js%203-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js 3](https://img.shields.io/badge/Vue.js%203-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet%20Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-State-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![TanStack Table](https://img.shields.io/badge/TanStack%20Table%20v8-FF4154?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 
 </details>
 
 <details>
-<summary><strong>DevOps, Cloud & Architecture Practices</strong></summary>
+<summary><strong>Backend, APIs & Databases</strong></summary>
 
 <br>
 
-`Transactional Outbox Pattern` · `Event-Driven Architecture` · `AMQP 0-9-1` · `At-Least-Once Delivery` · `RSA-2048 JWT` · `SHA-256 Forensic Audit Chain` · `Pessimistic Lexicographical Locking` · `Flyway Database Migrations` · `CI/CD Pipelines` · `GitHub Actions` · `Docker Compose` · `OpenAPI / Swagger 3.0` · `RFC 7807 Exception Standards` · `TDD` · `SOLID`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Tools, Architecture & Development Practices</strong></summary>
+
+<br>
+
+`MVC Architecture` · `REST API Design` · `Component-Driven UI` · `Responsive Web Design` · `WCAG 2.1 AA Accessibility` · `Git & GitHub Workflows` · `CI/CD Actions` · `Docker Compose` · `Vite` · `Composer` · `npm / pnpm` · `Clean Code & SOLID Basics`
 
 </details>
 
 ---
 
-## 🗂️ Independent Projects
+## 🗂️ Featured Projects
 
-*Curated selection of enterprise systems, distributed architectures and modern full-stack web applications.*
+*Selection of full-stack applications, interactive frontend interfaces, and responsive web projects.*
 
 | Project | Stack | Description | Live Demo | Repository |
 | :--- | :--- | :--- | :---: | :---: |
-| **[java-fullstack-enterprise](https://github.com/alxnrocha/java-fullstack-enterprise)** | Java 21 · Spring Boot 3.3 · RabbitMQ · React 19 · ESRI Leaflet | LogiSync Enterprise — Pan-European supply chain ERP with Transactional Outbox pattern, AMQP messaging, EAN-13 barcode terminal and live ESRI radar map | [🚀 Live Demo](https://alxnrocha.github.io/java-fullstack-enterprise/) | [GitHub](https://github.com/alxnrocha/java-fullstack-enterprise) |
-| **[java-secure-platform](https://github.com/alxnrocha/java-secure-platform)** | Java 21 · Spring Boot 3.3 · RSA-2048 · Redis 7 · Postgres 17 | VaultLedger Core — Double-entry banking ledger with sorted pessimistic locking, asymmetric JWT, SHA-256 audit chain and Basel III solvency dashboard | [🚀 Live Demo](https://alxnrocha.github.io/java-secure-platform/) | [GitHub](https://github.com/alxnrocha/java-secure-platform) |
-| **[java-crm](https://github.com/alxnrocha/java-crm)** | Java 21 · Spring Boot 3.3 · React 19 · TanStack Table v8 | ContractPulse CRM — B2B contract lifecycle and RevenueOps analytics platform with ARR/MRR run-rate, FSM workflow and TanStack Table v8 | [🚀 Live Demo](https://alxnrocha.github.io/java-crm/) | [GitHub](https://github.com/alxnrocha/java-crm) |
 | **[booking-platform](https://github.com/alxnrocha/booking-platform)** | Next.js · TypeScript · Tailwind v4 · PostgreSQL · Prisma 6 | StayHub Luxury — Multi-tenant luxury vacation rentals platform with RBAC and PostgreSQL persistence | [🚀 Live Demo](https://alxnrocha.github.io/booking-platform/) | [GitHub](https://github.com/alxnrocha/booking-platform) |
 | **[crm-leads](https://github.com/alxnrocha/crm-leads)** | Node.js Express 5 · MySQL 8 · React 19 · TypeScript | LeadFlow CRM — B2B commercial pipeline and lead management with Kanban Drag & Drop and REST API | [🚀 Live Demo](https://alxnrocha.github.io/crm-leads/) | [GitHub](https://github.com/alxnrocha/crm-leads) |
+| **[vue-catalog-filters](https://github.com/alxnrocha/vue-catalog-filters)** | Vue 3.5 · Pinia · Composition API · Tailwind v4 | StyleSphere — High-density faceted fashion e-commerce catalog with dynamic filters and reactive state | [🚀 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [GitHub](https://github.com/alxnrocha/vue-catalog-filters) |
 | **[real-estate-crm](https://github.com/alxnrocha/real-estate-crm)** | React 19 · TypeScript · Tailwind v4 · Recharts | InmoFlow — Real estate portal and property management with multi-criteria search and Recharts analytics | [🚀 Live Demo](https://alxnrocha.github.io/real-estate-crm/) | [GitHub](https://github.com/alxnrocha/real-estate-crm) |
 | **[analytics-dashboard](https://github.com/alxnrocha/analytics-dashboard)** | React 19 · TypeScript · TanStack Table · Recharts | SunnyShop — SaaS revenue and e-commerce analytics dashboard with conversion metrics and TanStack Table | [🚀 Live Demo](https://alxnrocha.github.io/analytics-dashboard/) | [GitHub](https://github.com/alxnrocha/analytics-dashboard) |
 | **[crypto-dashboard](https://github.com/alxnrocha/crypto-dashboard)** | React 19 · TypeScript · Chart.js · CoinGecko API | CryptoFlow — Real-time cryptocurrency market intelligence with interactive Chart.js charts and caching | [🚀 Live Demo](https://alxnrocha.github.io/crypto-dashboard/) | [GitHub](https://github.com/alxnrocha/crypto-dashboard) |
-| **[vue-catalog-filters](https://github.com/alxnrocha/vue-catalog-filters)** | Vue 3.5 · Pinia · Composition API · Tailwind v4 | StyleSphere — High-density faceted fashion e-commerce catalog with dynamic filters and reactive state | [🚀 Live Demo](https://alxnrocha.github.io/vue-catalog-filters/) | [GitHub](https://github.com/alxnrocha/vue-catalog-filters) |
 | **[landing-clinica-lumina](https://github.com/alxnrocha/landing-clinica-lumina)** | HTML5 Semantic · CSS3 Pure · JavaScript Vanilla | Clínica Lumina — Professional responsive landing page built on pure web standards with WCAG 2.1 AA accessibility | [🚀 Live Demo](https://alxnrocha.github.io/landing-clinica-lumina/) | [GitHub](https://github.com/alxnrocha/landing-clinica-lumina) |
-| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted fonts | [🚀 Live Demo](https://alexrochadev.com) | [GitHub](https://github.com/alxnrocha/alexrochadev.com) |
+| **[alexrochadev.com](https://github.com/alxnrocha/alexrochadev.com)** | Astro · TypeScript · Modern CSS | Personal site and portfolio with dark tech visual identity, SEO and self-hosted typography | [🚀 Live Demo](https://alexrochadev.com) | [GitHub](https://github.com/alxnrocha/alexrochadev.com) |
 
 ---
 
-## 🎓 Academic Foundations & Coursework
+## 🎓 Education & Official Certifications
+
+### CIFO La Violeta — Barcelona (SOC / SEPE)
+*Centres d'Innovació i Formació Ocupacional — Generalitat de Catalunya*
+
+- **[IFCD0024] FullStack Júnior Web Developer amb PHP** *(260 hours)*
+  - **Curriculum:** Object-Oriented PHP (OOP), MySQL Relational Databases, REST API Development with Laravel Framework (MVC, Eloquent ORM, Dependency Injection, JWT authentication), Frontend interfaces with Angular & TypeScript, and Cloud deployment.
+- **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** *(590 hours)*
+  - **Curriculum:** Full-stack development with JavaScript/TypeScript, Node.js runtime, Express REST APIs, Sequelize ORM, MySQL database administration, authentication & web security.
+
+| Coursework Project | Stack | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js · Express · MySQL | Full-stack contact manager with parameterized SQL queries and REST API | ✅ |
+| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js · Express · Sequelize · MySQL · EJS | School CRM platform developed for student and course database management | 🔧 |
+| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js · Express · MySQL · Joi | Task management web app with JWT authentication and request validation | ✅ |
 
 ### UOC — Universitat Oberta de Catalunya
-| Project | Stack | Description | Status |
-| :--- | :--- | :--- | :---: |
-| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML · CSS · JS Modules | Pokedex and battle simulator using PokeAPI | ✅ |
-| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 · Vue Router | Pokedex with routing, search and dark mode | ✅ |
-| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | HTML · CSS | Multi-page responsive portfolio | ✅ |
+*Leading online university based in Barcelona*
 
-### CIFO La Violeta — Barcelona, Spain
-| Project | Stack | Description | Status |
+- **[IFCD65] Confecció i Publicació de Pàgines Web**
+  - **Curriculum:** Web fundamentals, semantic HTML5, modern CSS3 layout systems (Flexbox, CSS Grid), modular JavaScript (ES6+), DOM APIs, responsive web design, and cross-browser accessibility standards.
+
+| Coursework Project | Stack | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js · Express · MySQL | Full-stack contact manager with REST API | ✅ |
-| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js · Express · Sequelize · MySQL · EJS | School CRM for student database management | 🔧 |
-| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js · Express · MySQL · Joi | Task management web app with JWT authentication | ✅ |
+| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML5 · CSS3 · JS ES Modules | Pokédex and battle simulator using PokeAPI with 3D flip card animations | ✅ |
+| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 · Vue Router · Pinia | Modular Pokédex with routing, live search, and dark mode localStorage persistence | ✅ |
+| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | Semantic HTML5 · CSS Grid & Flexbox | Multi-page responsive portfolio built strictly on pure web standards | ✅ |
 
 ---
 
