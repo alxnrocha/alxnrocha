@@ -111,33 +111,39 @@ Outside of code, I enjoy music, cycling, travel, and exploring modern design tre
 
 ## 🎓 Education & Official Certifications
 
-> **Total Certified Training: 1,090+ hours** of accredited, state-certified software engineering programs across vocational and university institutions in Catalonia (SOC / SEPE / UOC).
+<div align="center">
+  <img src="https://img.shields.io/badge/Total_Accredited_Training-1%2C090%2B_Hours-10B981?style=for-the-badge&logo=academia&logoColor=white" alt="1,090+ Accredited Hours" />
+</div>
+
+<br>
+
+> **1,090+ Total Certified Hours** of official, state-accredited software engineering programs completed across Catalonia's premier public vocational and university systems (SOC / SEPE / UOC).
 
 ### CIFO La Violeta — Barcelona (SOC / SEPE)
 *Centres d'Innovació i Formació Ocupacional — Generalitat de Catalunya*
 
-- **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** · `590 hours` *(Certificat de Professionalitat Nivell 3)*
+- **[IFCD0111] Desenvolupament d'Aplicacions amb Tecnologies Web** · **590 hours** · *Certificat de Professionalitat (Nivell 3)*
   - **Curriculum:** Full-stack development with JavaScript/TypeScript, Node.js runtime, Express REST APIs, Sequelize ORM, MySQL database administration, authentication & web security.
-- **[IFCD0024] FullStack Júnior Web Developer amb PHP** · `260 hours` *(Especialitat Formativa Nivell 2)*
+- **[IFCD0024] FullStack Júnior Web Developer amb PHP** · **260 hours** · *Especialitat Formativa (Nivell 2)*
   - **Curriculum:** Object-Oriented PHP (OOP), MySQL Relational Databases, REST API Development with Laravel Framework (MVC, Eloquent ORM, Dependency Injection, JWT authentication), Frontend interfaces with Angular & TypeScript, and Cloud deployment.
 
 | Coursework Project | Stack | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **[contact-manager-nodejs](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js · Express · MySQL | Full-stack contact manager with parameterized SQL queries and REST API | ✅ |
-| **[CIFO_CRM_project](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js · Express · Sequelize · MySQL · EJS | School CRM platform developed for student and course database management | 🔧 |
-| **[project_template_v2](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js · Express · MySQL · Joi | Task management web app with JWT authentication and request validation | ✅ |
+| **[Contact Manager REST API](https://github.com/alxnrocha/contact-manager-nodejs)** | Node.js · Express · MySQL | Full-stack contact manager with parameterized SQL queries and REST API | ✅ Completed |
+| **[CIFO CRM Platform](https://github.com/CIFO-IFCD0111-2526/CIFO_CRM_project)** | Node.js · Express · Sequelize · MySQL · EJS | Institutional CRM platform developed for student and course database management | ✅ Completed |
+| **[Task Auth Engine](https://github.com/CIFO-IFCD0111-2526/project_template_v2)** | Node.js · Express · MySQL · Joi | Task management web app with JWT authentication and request validation | ✅ Completed |
 
 ### UOC — Universitat Oberta de Catalunya
 *Leading online university based in Barcelona*
 
-- **[IFCD65] Front End Web Developer & Web Standards** · `240 hours`
+- **[IFCD65] Front End Web Developer & Web Standards** · **240 hours** · *Especialitat Formativa*
   - **Curriculum:** Web fundamentals, semantic HTML5, modern CSS3 layout systems (Flexbox, CSS Grid), modular JavaScript (ES6+), DOM APIs, responsive web design, and cross-browser accessibility standards.
 
 | Coursework Project | Stack | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **[pokedex-vanilla-js](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML5 · CSS3 · JS ES Modules | Pokédex and battle simulator using PokeAPI with 3D flip card animations | ✅ |
-| **[pokedex-vue3](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 · Vue Router · Pinia | Modular Pokédex with routing, live search, and dark mode localStorage persistence | ✅ |
-| **[frontend-portfolio](https://github.com/alxnrocha/frontend-portfolio)** | Semantic HTML5 · CSS Grid & Flexbox | Multi-page responsive portfolio built strictly on pure web standards | ✅ |
+| **[Pokédex Battle Simulator](https://github.com/alxnrocha/pokedex-vanilla-js)** | HTML5 · CSS3 · JS ES Modules | Pokédex and battle simulator using PokeAPI with 3D flip card animations | ✅ Completed |
+| **[Pokédex SPA](https://github.com/alxnrocha/pokedex-vue3)** | Vue 3 · Vue Router · Pinia | Modular Pokédex with routing, live search, and dark mode localStorage persistence | ✅ Completed |
+| **[Semantic Web Portfolio](https://github.com/alxnrocha/frontend-portfolio)** | Semantic HTML5 · CSS Grid & Flexbox | Multi-page responsive portfolio built strictly on pure web standards | ✅ Completed |
 
 ---
 
